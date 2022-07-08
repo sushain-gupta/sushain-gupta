@@ -1,9 +1,11 @@
 <h1>About Me</h1>
+
 - 👋 Hi, I’m @SushainGupta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML5, CSS3 & JavaScript & done with basic Python
 
-<br><br>
+
+<br>
 <h1> Connect Me Through</h1>
 <div align="left">
   <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/89994089/178003907-d0d960ba-e70a-400c-8556-d565fcb48718.png" height="50"></a>
