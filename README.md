@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @SushainGupta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5, CSS3 & JavaScript & done with basic Python
+- 🌱 I’m currently working upon full-stack web dev. You can see more about me <a href="https://sushaingupta.netlify.app/">here</a>.
 
 
 <br>
