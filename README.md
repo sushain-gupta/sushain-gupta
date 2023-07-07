@@ -2,7 +2,7 @@
 <html>
 <body style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
     <h1 style="color: #333;">Hi, I'm Sushain Gupta</h1>
-    <p style="color: #666;">Welcome to my GitHub profile! I'm a passionate web developer.</p>
+    <p style="color: #666;">Welcome to my GitHub profile! I'm an India-based freelancer who is into web development and open to work as a front-end developer.</p>
     <h2>About Me</h2>
     <p>I love building innovative web applications and exploring new technologies. In my free time, you can find me experimenting with different programming languages and frameworks.</p>
     <h2>Skills</h2>
