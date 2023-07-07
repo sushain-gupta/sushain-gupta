@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
-    <h1 style="color: #333;">Hi, I'm Sushain Gupta</h1>
+    <h1 style="color: #333;">Hi👋, I'm Sushain Gupta </h1>
     <p style="color: #666;">Welcome to my GitHub profile! I'm an India-based freelancer who is into web development and open to work as a front-end developer.</p>
     <h2>About Me</h2>
     <p>I love building innovative web applications and exploring new technologies. In my free time, you can find me experimenting with different programming languages and frameworks.</p>
     <h2>Skills</h2>
+
   <div>
             <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/html_mcptab.svg" alt="HTML5" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
             <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/css3_lhv35v.svg" alt="CSS3" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
