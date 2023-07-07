@@ -19,8 +19,11 @@
             <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668116/Portfolio/skills/python_drwvw3.svg" alt="Python" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
             <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668117/Portfolio/skills/netlify_abvuz1.svg" alt="Netlify" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushain-gupta&show_icons=true&locale=en&layout=compact" alt="urmilaun" /></p>
+<div>
     <h2>Contact</h2>
     <p>You can reach me via email at sushain.work@gmail.com or connect with me on <a href="https://www.linkedin.com/in/sushain-gupta">LinkedIn</a>.</p>
+</div>
     <footer>
         <p>Find out more about me on my <a href="https://sushaingupta.netlify.app/">personal website</a>.</p>
     </footer>
