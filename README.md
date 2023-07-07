@@ -12,3 +12,7 @@
   <a href="mailto:sushaingupta1234@gmail.com"><img alt="Gmail" width="80rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/sushain.gupta_"><img alt="Instagram" width="110rem" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urmilaun&show_icons=true&locale=en&layout=compact" alt="urmilaun" />
+</div>
