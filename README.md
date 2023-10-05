@@ -26,7 +26,7 @@
     <h2>Contact</h2>
     <p>You can reach me via email at sushain.work@gmail.com or connect with me on <a href="https://www.linkedin.com/in/sushain-gupta">LinkedIn</a>.</p>
     <footer>
-        <p>Find out more about me on my <a href="https://sushaingupta.netlify.app/">personal website</a>.</p>
+        <p>Find out more about me on my <a href="https://sushaingupta.vercel.app/">personal website</a>.</p>
     </footer>
 </body>
 </html>
