@@ -8,16 +8,23 @@
     <h2>Skills</h2>
 
   <div>
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/html_mcptab.svg" alt="HTML5" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/css3_lhv35v.svg" alt="CSS3" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/javascript_swauvr.svg" alt="JavaScript" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668116/Portfolio/skills/react_zwqsp1.svg" alt="React" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668117/Portfolio/skills/tw_nltigb.png" alt="Tailwind CSS" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/firebase_dwkgf4.png" alt="Firebase" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668115/Portfolio/skills/Bootstrap_mnezkw.svg" alt="Bootstrap" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1677968315/Portfolio/skills/sass.png" alt="SaSS" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668116/Portfolio/skills/python_drwvw3.svg" alt="Python" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
-            <img src="https://res.cloudinary.com/dkezwrb3a/image/upload/v1674668117/Portfolio/skills/netlify_abvuz1.svg" alt="Netlify" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/html_mcptab.svg" alt="HTML5" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/css3_lhv35v.svg" alt="CSS3" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/javascript_swauvr.svg" alt="JavaScript" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668116/Portfolio/skills/react_zwqsp1.svg" alt="React" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1698643899/Portfolio/skills/icons8-nodejs_lmjqiz.svg" alt="Node Js" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1698644086/Portfolio/skills/icons8-express-js_aucg1o.svg" alt="Express Js" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1698644406/Portfolio/skills/mongodb_original_wordmark_logo_icon_146425_qknszu.svg" alt="MongoDB" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1694530093/Portfolio/skills/pwa-icon_kqwk0u.svg" alt="PWA" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/firebase_dwkgf4.png" alt="Firebase" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/firebase_dwkgf4.png" alt="ec2" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/firebase_dwkgf4.png" alt="ec2 auto scaling" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/firebase_dwkgf4.png" alt="aws S3" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668117/Portfolio/skills/tw_nltigb.png" alt="Tailwind CSS" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668115/Portfolio/skills/Bootstrap_mnezkw.svg" alt="Bootstrap" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1677968315/Portfolio/skills/sass.png" alt="SaSS" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668116/Portfolio/skills/python_drwvw3.svg" alt="Python" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
+            <img src="https://res.cloudinary.com/sushain/image/upload/v1674668117/Portfolio/skills/netlify_abvuz1.svg" alt="Netlify" style="max-width: 30px; width: 30px; vertical-align: middle; margin-right: 10px;">&nbsp
 </div>
 <br/>
 <div>
