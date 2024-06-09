@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
-    [![](https://visitcount.itsvg.in/api?id=sushain-gupta&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=sushain-gupta&label=Profile%20Views&color=1&icon=0&pretty=true" />
+    </a>
     <h1 style="color: #333;">Hi👋, I'm Sushain Gupta </h1>
     <p style="color: #666;">Welcome to my GitHub profile! I'm an India-based freelancer who is into web development and open to work as a front-end developer.</p>
     <h2>About Me</h2>
